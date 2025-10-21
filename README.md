@@ -45,7 +45,7 @@
 ## Play numpplex : https://soosooland.com/numpplex/
 
 ---
-## 🌟 Soosooland - Game  Hub by Han Soosoo
+## 🌟 Soosooland - Puzzle Game Hub by Han Soosoo
 
 > "Learning through fun, and fun through learning."
 
