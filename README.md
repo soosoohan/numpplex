@@ -42,21 +42,23 @@
 | 여러 장으로 여러자리 숫자만들기 금지 | 넘즐초, 넘플초, 넘즐 X, 넘플 X             |
 
 ---
+## Play numpplex : https://soosooland.com/numpplex/
 
-## 🌟 Soosooland - Game Demo Hub by Han Soosoo
+---
+## 🌟 Soosooland - Game  Hub by Han Soosoo
 
 > "Learning through fun, and fun through learning."
 
-Explore more brain games and puzzles in **[Soosooland](https://soosoohan.github.io/soosooland/)**    
+Explore more brain games and puzzles in **[Soosooland](https://soosooland.com/)**    
 — a digital playground designed to improve memory, logic, and creativity while having fun!
 
 ---
-> 🛡️ **이 게임은 저작권 등록이 완료되었습니다.**  
-> 무단 복제, 무단 이용, 상업적 사용은 법적 책임을 초래할 수 있습니다.  
->  
-> 🛡️ **This game has been officially copyright registered.**  
-> Unauthorized reproduction, use, or commercial distribution
-> may result in legal consequences.  
+ 🛡️ **이 게임은 저작권 등록이 완료되었습니다.**  
+ 무단 복제, 무단 이용, 상업적 사용은 법적 책임을 초래할 수 있습니다.  
+  
+ 🛡️ **This game has been officially copyright registered.**  
+ Unauthorized reproduction, use, or commercial distribution
+ may result in legal consequences.  
 ---
 👤 만든 사람 / Credits
 
