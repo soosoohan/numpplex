@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://soosooland.com/numpplex/sitemap.xml
+User-agent: Yeti
+Allow: /
+Sitemap: https://soosooland.com/sitemap.xml
 
