@@ -52,24 +52,22 @@
         font-family: 'Pretendard', sans-serif;
         background: #145454;
         min-height: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 10px;
     }
     .blackboard {
         width: 100%;
         max-width: 750px;
-        height: 100vh;
+        min-height: 100dvh;
         background: #145454;
         position: relative;
-        padding: 20px;
-    }
+        display:flex;
+        flex-direction:column;
+        position:relative
+     }
     .chalk-text {
         color: #f0f8ff;
         font-family: 'Pretendard', sans-serif;
-    }
-  .back-button {
+     }
+    .back-button {
         position: absolute;
         top: 20px;
         left: 20px;
@@ -83,23 +81,20 @@
         transition: all 0.3s ease;
         z-index: 100;
     }
-    .back-button:hover {
+   .back-button:hover {
         background-color: #FF9494;
         color: white;
     }
     /* 넘플 메인 화면 */
-    .numpple-main {
-        transition: all 0.5s ease;
-        position: relative;
-        min-height: 100%;
-        display: flex;
-        flex-direction: column;
-    }
+    .numpple-main{
+        position:relative;
+        padding:20px;
+        text-align:center
+}
     .main-title {
-        font-size: clamp(1.3rem, 3.7vw, 1.9rem);
-        font-weight: bold;
+        font-size: clamp(1.5rem, 4vw, 2.2rem);
+        font-weight: 800;
         text-align: center;
-        margin-bottom: 20px;
         margin-top: 20px;
     }
     .language-toggle {
@@ -120,9 +115,8 @@
         margin: 2px;
         border-radius: 5px;
         cursor: pointer;
-        font-family: 'Pretendard', sans-serif;
         font-size: clamp(0.8rem, 2vw, 1rem);
-        transition: all 0.3s ease;
+        transition: 0.3s;
     }
     .language-button:hover {
         background: #20b2aa;
@@ -331,7 +325,7 @@
                 <button class="language-button active" onclick="toggleLanguage('ko')">한국어</button>
                 <button class="language-button" onclick="toggleLanguage('en')">English</button>
             </div>
-        <h1 class="chalk-text main-title">넘플X(NUMPPLE X)</h1>
+        <h1 class="chalk-text main-title">넘플X | NUMPPLEX</h1>
         
         <div class="game-description chalk-text" id="korean-description">
             <h3>숫자카드와 연산기호 카드로 수식을 만드세요.</h3>
@@ -462,7 +456,5 @@
         }
     });
 </script>
-
-
 </body>
 </html>
